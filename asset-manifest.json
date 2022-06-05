@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/narunfo/static/css/main.6df5c3be.css",
+    "main.js": "/narunfo/static/js/main.4bc90a1f.js",
+    "static/js/787.105c08bc.chunk.js": "/narunfo/static/js/787.105c08bc.chunk.js",
+    "static/media/Narusasu.jpeg": "/narunfo/static/media/Narusasu.3cb1d9b003cd1d8fc2c5.jpeg",
+    "static/media/n2.jpg": "/narunfo/static/media/n2.17a4fd2d3b14ddafbbfb.jpg",
+    "static/media/narunfo.png": "/narunfo/static/media/narunfo.571da12d15dbf6abccf6.png",
+    "static/media/layout.webp": "/narunfo/static/media/layout.3c6832cc7c3a10b32402.webp",
+    "static/media/njnaruto.ttf": "/narunfo/static/media/njnaruto.eb7e0c70752e2f7b008e.ttf",
+    "static/media/pngegg.png": "/narunfo/static/media/pngegg.e5256f93c84d42f8af33.png",
+    "static/media/uzumaki.jpg": "/narunfo/static/media/uzumaki.52c99f9c4f62b54fdc7a.jpg",
+    "index.html": "/narunfo/index.html",
+    "main.6df5c3be.css.map": "/narunfo/static/css/main.6df5c3be.css.map",
+    "main.4bc90a1f.js.map": "/narunfo/static/js/main.4bc90a1f.js.map",
+    "787.105c08bc.chunk.js.map": "/narunfo/static/js/787.105c08bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6df5c3be.css",
+    "static/js/main.4bc90a1f.js"
+  ]
+}
