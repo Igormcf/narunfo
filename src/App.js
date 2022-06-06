@@ -120,6 +120,7 @@ class App extends React.Component {
   }
 
   render() {
+    document.title = 'Narunfo';
     const { cards } = this.state;
     const cardList = cards.map((item) => (
       <div key={ item.cardName } className="container-key">
