@@ -8,4 +8,5 @@ Esta aplicação é uma gerador de cartas baseado no universo do anime Naruto pa
 
 ## Sobre o desenvolvimento:
 
-Foi utilizado no seu desenvolvimento a linguagem JavaScript com a framework do React com manipulação de estados em classes. Na renderização das cartas, a aplicação possui três filtros de listagem de cartas: filtro por nome, por raridade e por Super Trunfo. Os filtros nome e raridade são acumulativos. O filtro Super Trunfo funciona de forma independente. 
+Foi utilizado no seu desenvolvimento a linguagem JavaScript com a framework do React com manipulação de estados em classes. Na renderização das cartas, a aplicação possui três filtros de listagem de cartas: filtro por nome, por raridade e por Super Trunfo. Os filtros nome e raridade são acumulativos. O filtro Super Trunfo funciona de forma independente.
+
